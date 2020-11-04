@@ -6,11 +6,8 @@ OSAHD is a social media website that is created using HTML5, CSS3, ES6 JavaScrip
 React-Redux, and React-Router.
 
 ## Team Members
-* Osa Aimola
-* Shailza Sharma
 * Ashutosh Kaushal
-* Harpreet Kour
-* Dinh Thai
+
 
 ## Trello Board
 https://trello.com/b/SpIkFVNU/osahd-social-media
